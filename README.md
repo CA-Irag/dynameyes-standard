@@ -1,0 +1,2 @@
+# dynameyes-standard
+ Simple theme
